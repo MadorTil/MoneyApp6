@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "413894118278",
+    "firebase_url": "https://medicbook-ios-default-rtdb.firebaseio.com",
+    "project_id": "medicbook-ios",
+    "storage_bucket": "medicbook-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413894118278:android:43fdcdce54dff962a1fa07",
+        "android_client_info": {
+          "package_name": "com.example.moneyapp5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413894118278-udh8n28dlae1je2qav546k89ao0l8cp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQrtI3x4ESjbXnLSIrLEWn7P5yfA0g-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413894118278-udh8n28dlae1je2qav546k89ao0l8cp9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413894118278-9q5r991nuip454e3d05mf4gm1fv4526e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "MadorTil.MedicalMedicBook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413894118278:android:a132c8d0d67a5d18a1fa07",
+        "android_client_info": {
+          "package_name": "com.madortil.medicbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413894118278-udh8n28dlae1je2qav546k89ao0l8cp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQrtI3x4ESjbXnLSIrLEWn7P5yfA0g-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413894118278-udh8n28dlae1je2qav546k89ao0l8cp9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413894118278-9q5r991nuip454e3d05mf4gm1fv4526e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "MadorTil.MedicalMedicBook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413894118278:android:e84c8564884ca0dea1fa07",
+        "android_client_info": {
+          "package_name": "com.madortil.moneyap5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413894118278-udh8n28dlae1je2qav546k89ao0l8cp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQrtI3x4ESjbXnLSIrLEWn7P5yfA0g-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413894118278-udh8n28dlae1je2qav546k89ao0l8cp9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413894118278-9q5r991nuip454e3d05mf4gm1fv4526e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "MadorTil.MedicalMedicBook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
